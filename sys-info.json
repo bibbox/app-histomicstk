@@ -1,0 +1,4 @@
+{
+  runningcontainers:["§§INSTANCE-histomicsTK", "§§INSTANCE-histomicsTK-db"],
+  supportcontainers:["§§INSTANCE-histomicsTK-data"]
+}

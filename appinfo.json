@@ -1,0 +1,10 @@
+{
+		"name": "HistomicsTK",
+		"short_name": "HistomicsTK",
+		"version": "development",
+		"description": "Toolkit for the analysis of Histopathology images in association with clinical and genomic data developed by Kitware",
+        "short_description": "Toolkit for the analysis of Histopathology images",
+		"catalogue_url": "",
+		"application_url": "https://digitalslidearchive.github.io/HistomicsTK/index.html",
+		"tags": ["Digital Pathology]
+}
